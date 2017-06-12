@@ -1,0 +1,31 @@
+
+body {
+	background-image: url(../images/hp_glass_bolt_bkgd.png);
+	background-repeat: repeat;
+	background-color: transparent;
+}
+.container {
+	position: relative;
+	background-color: #DDDDDD;
+	margin: 25px auto;
+	border: #000 solid 2px;
+	padding-bottom: 25px;
+}
+
+h1, h2 {
+	font-family: 'Merienda', cursive;
+}
+
+button {
+	margin: 5px;
+}
+
+#imgBtnArea {
+	margin-bottom: 10px;
+}
+.gifDisplay {
+	margin: 5px;
+	border: 1px #fff solid;
+	display: inline-block;
+	padding: 5px;
+}
