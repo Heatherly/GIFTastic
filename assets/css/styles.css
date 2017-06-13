@@ -10,9 +10,10 @@ body {
 	margin: 25px auto;
 	border: #000 solid 2px;
 	padding-bottom: 25px;
+	min-height: 600px;
 }
 
-h1, h2 {
+h1, h2, h3 {
 	font-family: 'Merienda', cursive;
 }
 
@@ -28,4 +29,13 @@ button {
 	border: 1px #fff solid;
 	display: inline-block;
 	padding: 5px;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.hogwartsImg {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	opacity: 0.5;
 }
